@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\desim\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\desim\\.nuget\\packages"
+    ]
+  }
+}
